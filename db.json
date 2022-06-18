@@ -1,0 +1,24 @@
+{
+    "contestants": [
+        {
+            "id": 1,
+            "name": "Alfred kubai",
+            "activity": "Sing"
+        },
+        {
+            "id": 2,
+            "name": "Peter marangi",
+            "activity": "Paint-artist"
+        },
+        {
+            "id": 3,
+            "name": "Alemba Alex",
+            "activity": "Chef"
+        },
+        {
+            "id": 4,
+            "name": "Amos chiwawa",
+            "activity": "Rapper"
+        },
+    ]
+}
